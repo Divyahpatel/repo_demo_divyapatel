@@ -1,0 +1,11 @@
+
+GitHub work from developer side:
+
+
+Steps:1) Add your file in your folder must.
+2) Then go to terminal and git add .
+3) git commit -am "noted"   ---------------"add any message here"
+4)git push origin master 
+5) Username for 'https://github.com': divyahpatel9095@gmail.com
+Password for 'https://divyahpatel9095@gmail.com@github.com': 
+ 
